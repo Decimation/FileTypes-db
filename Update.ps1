@@ -1,1 +1,1 @@
-Copy-Item "$env:USERPROFILE\VSProjects\Novus\Resources\File types.json" .
+Copy-Item "$env:USERPROFILE\VSProjects\Novus\Novus\Resources\File types.json" .
